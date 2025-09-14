@@ -83,8 +83,8 @@ This project is an **interactive Excel dashboard** designed to analyze **E-Comme
 ## 👤Developed By
 KAMMAMPATI SAIVAMSHI
 
-LinkedIn: https://www.linkedin.com/in/kammampati-saivamshi-/
+[LinkedIn](https://www.linkedin.com/in/kammampati-saivamshi-/)                                      
+[GitHub](https://github.com/kammampatiSaivamshi)
 
-GitHub: https://github.com/kammampatiSaivamshi
 * Data Analyst | Data Scientist | SQL | Python | Power BI | Excel | Tableau |Machine learning | Deep Learnng | NLP |
   
