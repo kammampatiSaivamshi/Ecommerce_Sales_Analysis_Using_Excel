@@ -1,8 +1,6 @@
 # Ecommerce_Sales_Analysis_Using_Excel
 
 
-#  E-Commerce Sales and Analysis Dashboard
-
 ##  Project Overview
 
 This project is an **interactive Excel dashboard** designed to analyze **E-Commerce sales performance**. It provides insights into sales, profit, orders, and profit margins across different categories, states, and product sub-categories. The goal is to help businesses make **data-driven decisions** by identifying trends, growth opportunities, and areas for improvement.
